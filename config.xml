@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.up.lms"
+        id        = "eval.kvc.lms"
         versionCode = "20160807"
         version   = "1.0.0">
-    <name>UP LMS</name>
+    <name>Eval KVC</name>
 
     <description>
-        University of Phayao LMS Mobile App
+        Khonkaen Vocational College EVAL Mobile App
     </description>
 
-    <author href="http://www.lms.up.ac.th" email="chonthida.th@up.ac.th">
-        Univeristy of Phayao
+    <author href="http://61.91.109.46/eval" email="kruded@kvc.ac.th">
+        Khonkaen Vocational College
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
