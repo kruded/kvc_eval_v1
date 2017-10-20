@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "eval.kvc.lms"
+        id        = "com.online.kvc.khonkaen_online"
         versionCode = "20160807"
         version   = "1.0.0">
     <name>Eval KVC</name>
