@@ -412,7 +412,7 @@ angular.module('mm.addons.mod_quiz').factory('$mmaQuizAccessTimeLimitHandler', 
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "eval.kvc.lms",
+    "app_id" : "com.online.kvc.khonkaen_online",
     "versioncode" : "20160807",
     "versionname" : "1.0.0",
     "cache_expiration_time" : 300000,
